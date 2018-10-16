@@ -1,5 +1,5 @@
 function getFirstSelector(selector){
-document.getelementbyId('nested').querySelector('ul.ranked-list');
+document.getElementById('nested').querySelector('ul.ranked-list');
 }
 
 function nestedTarget(){
