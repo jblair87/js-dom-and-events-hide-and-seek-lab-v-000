@@ -1,6 +1,5 @@
 function getFirstSelector(selector){
-document.querySelector('div.');
-
+document.querySelector('div.nested');
 document.querySelector('ul.ranked-list');
 }
 
